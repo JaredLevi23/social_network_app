@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "718351265807",
+    "firebase_url": "https://red-social-b20e7-default-rtdb.firebaseio.com",
+    "project_id": "red-social-b20e7",
+    "storage_bucket": "red-social-b20e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718351265807:android:71faca3d022bf73712f37a",
+        "android_client_info": {
+          "package_name": "com.glez.jrd.red_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718351265807-1cql42eg9oballl4s37gcb19c80po8rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glez.jrd.red_social",
+            "certificate_hash": "2e891874db8637c874090fb8731c80fd88fb98a2"
+          }
+        },
+        {
+          "client_id": "718351265807-roap4qbfvfgok2s5mbp63h6m12i3l6k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXfIaZbXU7IEXEy8HOUYpetIzq9ufW5OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718351265807-0la50p4lprc6n5hlvupk4rchrijckc86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718351265807-778pqm81ein7kngg31jtgg9cclgsinu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glez.jrd.red-social"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

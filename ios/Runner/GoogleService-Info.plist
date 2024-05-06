@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>718351265807-778pqm81ein7kngg31jtgg9cclgsinu6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.718351265807-778pqm81ein7kngg31jtgg9cclgsinu6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBfToWObbf8Otv-8sQmmm0n2WM_dxVuNyM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>718351265807</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.glez.jrd.red-social</string>
+	<key>PROJECT_ID</key>
+	<string>red-social-b20e7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>red-social-b20e7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:718351265807:ios:1726ad8426701e4c12f37a</string>
+	<key>DATABASE_URL</key>
+	<string>https://red-social-b20e7-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
